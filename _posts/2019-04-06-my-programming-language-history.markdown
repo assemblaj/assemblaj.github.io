@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "My History in Programming Languages"
-date:   {{ page.date }}
+date:   2019-04-06 22:24:41 -0400
 categories: programming 
 ---
 An abridged history of my most significant experiences with 
